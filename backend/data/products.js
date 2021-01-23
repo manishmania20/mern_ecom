@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: '1',
     name: 'Assassins\'s Creed: Valhalla',
     image: '/images/acvalhalla.jpg',
     description:
@@ -13,7 +12,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
     name: 'Immortals: Fenyx Rising',
     image: '/images/fenyx-rising.jpg',
     description:
@@ -26,7 +24,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
     name: 'Hitman: 3',
     image: '/images/hitman3.jpg',
     description:
@@ -39,7 +36,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
     name: 'Little Nightmares: 2',
     image: '/images/little-nightmares.jpg',
     description:
@@ -52,7 +48,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
     name: 'Riders: Republic',
     image: '/images/riders-republic.jpg',
     description:
@@ -65,7 +60,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
     name: 'The Medium',
     image: '/images/the-medium.jpg',
     description:
